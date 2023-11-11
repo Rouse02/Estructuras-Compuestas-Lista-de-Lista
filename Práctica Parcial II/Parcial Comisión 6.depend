@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699570846 source:c:\users\usuario\desktop\parcial comisión 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1699616203 source:c:\users\usuario\desktop\práctica 2do parcial laboratorio ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
